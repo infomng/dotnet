@@ -1,0 +1,6 @@
+@Transactional_outbox_pattern_HostAddress = http://localhost:5187
+
+GET {{Transactional_outbox_pattern_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
