@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Taf\\Learning\\dotnet\\Transactional outbox pattern\\Transactional outbox pattern.csproj": {}
+    "d:\\Taf\\Learning\\dotnet\\Transactional outbox pattern\\Transactional outbox pattern.csproj": {}
   },
   "projects": {
-    "D:\\Taf\\Learning\\dotnet\\Transactional outbox pattern\\Transactional outbox pattern.csproj": {
+    "d:\\Taf\\Learning\\dotnet\\Transactional outbox pattern\\Transactional outbox pattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Taf\\Learning\\dotnet\\Transactional outbox pattern\\Transactional outbox pattern.csproj",
+        "projectUniqueName": "d:\\Taf\\Learning\\dotnet\\Transactional outbox pattern\\Transactional outbox pattern.csproj",
         "projectName": "Transactional outbox pattern",
-        "projectPath": "D:\\Taf\\Learning\\dotnet\\Transactional outbox pattern\\Transactional outbox pattern.csproj",
+        "projectPath": "d:\\Taf\\Learning\\dotnet\\Transactional outbox pattern\\Transactional outbox pattern.csproj",
         "packagesPath": "C:\\Users\\mnged\\.nuget\\packages\\",
-        "outputPath": "D:\\Taf\\Learning\\dotnet\\Transactional outbox pattern\\obj\\",
+        "outputPath": "d:\\Taf\\Learning\\dotnet\\Transactional outbox pattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mnged\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -49,6 +49,14 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[9.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
